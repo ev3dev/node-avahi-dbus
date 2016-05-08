@@ -1,6 +1,6 @@
 {
   "name": "avahi-dbus",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "avahi/dns-sd wrapper",
   "main": "lib/index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "author": "Alexander Rössler <mail@roessler.systems>",
   "license": "MIT",
   "dependencies": {
-    "dbus-native": "0.0.8"
+    "dbus-native": "~0.2.0"
   }
 }
